@@ -3,7 +3,7 @@ Data Description
 The data contains the details for the Uber rides across various boroughs (subdivisions) of New York City at an hourly level and attributes associated with weather conditions at that time.
 
 * pickup_dt: Date and time of the pick-up.
-borough: NYC's borough.
+* borough: NYC's borough.
 pickups: Number of pickups for the period (hourly).
 spd: Wind speed in miles/hour.
 vsb: Visibility in miles to the nearest tenth.
